@@ -1,0 +1,9 @@
+{
+    "CrossLanguagePackageId": null,
+    "CrossLanguageDefinitionId": {
+        "rai_agent_functions_api.operations.ReviewerOperations.post": null,
+        "rai_agent_functions_api.aio.operations.ReviewerOperations.post": null,
+        "rai_agent_functions_api.operations.TestcaseOperations.generator_post": null,
+        "rai_agent_functions_api.aio.operations.TestcaseOperations.generator_post": null
+    }
+}
