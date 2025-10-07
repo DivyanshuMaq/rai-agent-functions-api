@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rai-agent-functions-api"
-version = "1.0.2"
+version = "1.0.3"
 authors = [
     {name = "Divyanshu Rastogi", email = "divyanshur@maqsoftware.com"},
 ]
